@@ -17,7 +17,6 @@ _I am a **junior web developer** with experience in **html5, css, javascript, CS
 <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-original.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
 <details open>
