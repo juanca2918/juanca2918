@@ -26,7 +26,7 @@ _I am a **junior web developer** with experience in **html5, css, javascript, CS
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=juanca2918&show_icons=true&theme=radical&line_height=29&hide=stars&count_private=true" style="vertical-align:middle">
-  <img src = "https://github-readme-stats-git-master.juanca2918.vercel.app/api/top-langs/?username=juanca2918&theme=tokyonight&layout=compact&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanca2918&theme=gruvbox&layout=compact&count_private=true" />
 </p>
 
 </details>
