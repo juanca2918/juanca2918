@@ -1,8 +1,8 @@
-#HI IM JUAN CARLOS ARIAS B. (JUANCA2918)
+<h1>HI IM JUAN CARLOS ARIAS B. (JUANCA2918)</h1>
 
 _I am a **junior web developer** with experience in **html5, css, javascript, CSS frameworks, frameworks and javascript libraries.**_
 
-##TECH KNOWLEDGE
+<h3>TECH KNOWLEDGE</h3>
 
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
