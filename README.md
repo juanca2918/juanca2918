@@ -22,7 +22,7 @@
 <a href="https://twitter.com/https://twitter.com/juancar88965441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/juancar88965441" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juancab3089/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juancab3089/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://es.stackoverflow.com/users/116316/juan-carlos-arias-botero?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/116316/juan-carlos-arias-botero?tab=profile" height="30" width="40" /></a>
-<a href="https://discord.gg/Jackal#8327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jackal#8327" height="30" width="40" /></a>
+<a href="https://discord.gg/jackal8995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jackal8995" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
