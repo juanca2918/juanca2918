@@ -1,5 +1,5 @@
 <h1 align="center">Programmer ⌨ My Name is Juan Carlos</h1>
-<h3 align="center">I'm a programmer with knowledge in many languages, I like work in team. 👨‍💻</h3>
+<h3 align="center">I'm a programmer with knowledge in many languages. 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanca2918&label=Profile%20views&color=0e75b6&style=flat" alt="juanca2918" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/juancar88965441" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/juancar88965441?logo=twitter&style=for-the-badge" alt="https://twitter.com/juancar88965441" /></a> </p>
 
-- 🔭 I’m currently working on [SCCSEYPRE](https://github.com/DementesWeb/sccseypre)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **PHP, JS, Laravel, Tailwindcss, MySQL, Apache2, VueJS,Tools.**
+- 💬 Ask me about **PHP, JS, Laravel, Tailwindcss, MySQL, Apache2, VueJS, VSCode, Docker, Ngnix, Docker Compose, PostgreSQL, Linux, .Bash**
 
-- 📫 How to reach me **jackal3089@gmail.com**
+- 📫 How to reach me **jackal2819@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juancab3089/](https://www.linkedin.com/in/juancab3089/)
 
