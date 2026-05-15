@@ -1,35 +1,143 @@
-<h1 align="center">Programmer ⌨ My Name is Juan Carlos</h1>
-<h3 align="center">I'm a programmer with knowledge in many languages. 👨‍💻</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanca2918&label=Profile%20views&color=0e75b6&style=flat" alt="juanca2918" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:7f3fbf,100:00ffff&height=200&section=header&text=Juan%20Carlos%20Arias&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=60&descSize=17" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanca2918" alt="juanca2918" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=Hello+World!+%F0%9F%91%BE+I'm+Juan+Carlos;Full+Stack+Developer+%7C+DevOps+Enthusiast;PHP+%7C+Laravel+%7C+Vue.js+%7C+Docker+%7C+Python;Building+scalable+solutions+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/juancar88965441" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/juancar88965441?logo=twitter&style=for-the-badge" alt="https://twitter.com/juancar88965441" /></a> </p>
-
-- 🔭 I’m currently working on []()
-
-- 🌱 I’m currently learning **PHP**
-
-- 💬 Ask me about **PHP, JS, Laravel, Tailwindcss, MySQL, Apache2, VueJS, VSCode, Docker, Ngnix, Docker Compose, PostgreSQL, Linux, .Bash**
-
-- 📫 How to reach me **jackal2819@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/juancab3089/](https://www.linkedin.com/in/juancab3089/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/juancar88965441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/juancar88965441" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juancab3089/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juancab3089/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://es.stackoverflow.com/users/116316/juan-carlos-arias-botero?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/116316/juan-carlos-arias-botero?tab=profile" height="30" width="40" /></a>
-<a href="https://discord.gg/jackal8995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jackal8995" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=juanca2918&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/juanca2918?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0d1117&color=bf00ff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanca2918&show_icons=true&locale=en&layout=compact" alt="juanca2918" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanca2918&show_icons=true&locale=en" alt="juanca2918" /></p>
+## 👾 `$ whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanca2918&" alt="juanca2918" /></p>
+```bash
+╔══════════════════════════════════════════════════════════╗
+║  $ cat /etc/dev/profile.conf                             ║
+║                                                          ║
+║  ➜  Name:      Juan Carlos Arias Botero                  ║
+║  ➜  Role:      Full Stack Developer & DevOps Engineer    ║
+║  ➜  Location:  Colombia 🇨🇴                               ║
+║  ➜  Stack:     Laravel · Vue.js · Docker · Python        ║
+║  ➜  Learning:  Blockchain · AI · Cloud Architecture      ║
+║  ➜  Status:    Always shipping code... ⚡                ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+- 🔭 Construyendo **soluciones empresariales con Laravel + Vue.js**
+- 🤖 Explorando **IA, Blockchain y automatización de trading**
+- 🐳 Apasionado por **Docker y la infraestructura como código**
+- ⚡ Fun fact: **He forkeado el código fuente original del Apollo 11** 🚀
+- 📫 Contacto: **jackal2819@hotmail.com**
+- 💼 LinkedIn: **[juancab3089](https://www.linkedin.com/in/juancab3089/)**
+
+---
+
+## 🛠️ Arsenal Tecnológico
+
+### 💻 Lenguajes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,python,bash,html,css&theme=dark" />
+</p>
+
+### ⚡ Frameworks & Librerías
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,nodejs,django,tailwind,bootstrap&theme=dark" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
+</p>
+
+### 🐳 DevOps & Infraestructura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark" />
+</p>
+
+### 🔧 Herramientas & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,heroku,vercel&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=juanca2918&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF&hide_border=false&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanca2918&layout=compact&langs_count=8&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF&hide_border=false" height="180" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanca2918&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=00FF41&fire=F8D866&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=AAAAAA" />
+</div>
+
+---
+
+## 📈 Actividad de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanca2918&bg_color=0D1117&color=00FF41&line=7F3FBF&point=F8D866&area=true&hide_border=false&border_color=7F3FBF" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juanca2918&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7" />
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<a href="https://github.com/juanca2918/hcrwhatsappandsms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanca2918&repo=hcrwhatsappandsms&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/juanca2918/base-portafolio-juancadev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanca2918&repo=base-portafolio-juancadev&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/juanca2918/crudjango">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanca2918&repo=crudjango&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/juanca2918/dockerized-services-db-mysql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanca2918&repo=dockerized-services-db-mysql&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/juanca2918/Animacion-de-Entrada">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanca2918&repo=Animacion-de-Entrada&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/juanca2918/CrudPHP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanca2918&repo=CrudPHP&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=00FF41&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Conectemos
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancab3089/)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/juancar88965441)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/116316/juan-carlos-arias-botero)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jackal8995)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackal2819@hotmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:7f3fbf,100:00ff41&height=120&section=footer" />
+</div>
